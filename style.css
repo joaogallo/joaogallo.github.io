@@ -1,0 +1,60 @@
+body {
+	background-color: lime;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 20px;
+	font-family: Impact;
+	color:gray;
+	text-align: center;
+}
+
+ul, ol {
+	font-family: Arial;
+	font-size: 12px;
+	background-color: white;
+	margin: 35px;
+	padding: 35px;
+}
+
+strong {
+	color: red;
+}
+
+.general {
+	color: navy;
+	background-color: gold;
+}
+
+.size12{
+	font-size: 12px;
+}
+
+
+.size13{
+	font-size: 13px;
+}
+
+.size14{
+	font-size: 14px;
+}
+
+.size15{
+	font-size: 15px;
+}
+
+.size16{
+	font-size: 16px;
+}
+
+.size18{
+	font-size: 18px;
+}
+
+#MyPicture {
+	float: left;
+	padding: 6px;
+	margin: 35px;
+	background-color: gold;
+}
